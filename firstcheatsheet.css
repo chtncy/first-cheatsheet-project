@@ -1,0 +1,43 @@
+* {
+  
+}
+body {
+  background-color: #DCDCDC;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+table {
+  border: 1px solid black;
+  width: 650px;
+  text-align: left;
+  align-items: center;
+  justify-content: center;
+}
+td, tr {
+  border: 1px solid black;
+}
+h1 {
+  color: brown;
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+h2 {
+  color: #3CB371;
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+thead {
+  background-color: #BDB76B;
+  font-weight: bold;
+}
+
+.tag {
+  background-color: #DAA520;
+}
+
+.name {
+  background-color: #FFA07A;
+}
